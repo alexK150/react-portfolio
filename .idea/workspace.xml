@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c2cf7ed8-6f67-4e7a-a4bb-9f14f3d6d513" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/additional-info/AdditionalInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/additional-info/AdditionalInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/additional-info/AdditionalInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/additional-info/AdditionalInfo.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/Contacts.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +87,7 @@
       <workItem from="1574150973262" duration="14502000" />
       <workItem from="1574249580293" duration="85000" />
       <workItem from="1574322958575" duration="3066000" />
-      <workItem from="1576485767738" duration="5323000" />
+      <workItem from="1576485767738" duration="6973000" />
     </task>
     <task id="LOCAL-00001" summary="v0 initial commit">
       <created>1574170044950</created>
@@ -119,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576489950470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v4 Additional info styles">
+      <created>1576491182463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576491182463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +148,7 @@
     <MESSAGE value="v1 Header, MainInfo, NavMenu" />
     <MESSAGE value="v2 Skills styles" />
     <MESSAGE value="v3 Project styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="v3 Project styles" />
+    <MESSAGE value="v4 Additional info styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="v4 Additional info styles" />
   </component>
 </project>
