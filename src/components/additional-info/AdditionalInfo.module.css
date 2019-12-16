@@ -1,4 +1,14 @@
 .info {
     height: 250px;
     background-color: #596275;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
 }

@@ -4,7 +4,7 @@ import s from './Contacts.module.css';
 const Contacts = (props) => {
     return (
         <div className={s.contacts}>
-            SKILLS
+            CONTACTS
         </div>
     )
 };

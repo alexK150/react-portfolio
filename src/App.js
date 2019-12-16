@@ -8,17 +8,17 @@ import AdditionalInfo from './components/additional-info/AdditionalInfo';
 import Contacts from './components/contacts/Contacts';
 import Footer from './components/footer/Footer';
 
-function App() {
+const App = () => {
     return (
         <div className="App">
             <div className="portfolioWrapper">
-              <Header/>
-              <MainInfo/>
-              <Skills/>
-              <Projects/>
-              <Contacts/>
-              <AdditionalInfo/>
-              <Footer/>
+                <Header/>
+                <MainInfo/>
+                <Skills/>
+                <Projects/>
+                <AdditionalInfo/>
+                <Contacts/>
+                <Footer/>
             </div>
         </div>
     );
