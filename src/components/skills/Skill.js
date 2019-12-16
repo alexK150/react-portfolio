@@ -17,6 +17,6 @@ const Skill = ({name}) => {
             </div>
         </div>
     )
-}
+};
 
 export default Skill;
