@@ -1,4 +1,54 @@
 .skills {
     height: 100vh;
     background-color: #63cdda;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+    border: 2px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.mySkills {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.skill {
+    border: 1px solid;
+}
+
+.logoBox {
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    background-color: #596275;
+}
+
+.skillDesc {
+    border: 1px solid;
+    flex: 1;
+}
+
+.skillBoxes {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+    border: 1px solid black;
 }

@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2cf7ed8-6f67-4e7a-a4bb-9f14f3d6d513" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/nav-menu/NavMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/nav-menu/NavMenu.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/skills/Skill.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main-info/MainInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main-info/MainInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main-info/MainInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main-info/MainInfo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skills.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +86,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574150966872</updated>
-      <workItem from="1574150973262" duration="8317000" />
+      <workItem from="1574150973262" duration="14502000" />
+      <workItem from="1574249580293" duration="85000" />
+      <workItem from="1574322958575" duration="3066000" />
+      <workItem from="1576485767738" duration="768000" />
     </task>
     <task id="LOCAL-00001" summary="v0 initial commit">
       <created>1574170044950</created>
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574170044950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v1 Header, MainInfo, NavMenu">
+      <created>1574178745935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574178745935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -116,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v0 initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0 initial commit" />
+    <MESSAGE value="v1 Header, MainInfo, NavMenu" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1 Header, MainInfo, NavMenu" />
   </component>
 </project>
